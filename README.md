@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ronny Blostein (@Ronnybl)
-- I’m interested in 
+- I’m interested in Software Development
 - 📫 How to reach me ... Email me ronnybl1999@gmail.com
 -                        LinkedIn  www.linkedin.com/in/ronnyblostein
 
